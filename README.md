@@ -1,4 +1,4 @@
-# Frontend Mentor: Pomodoro Timer Challenge
+# Frontend Mentor: CalCulator App Challenge
  
 ## Welcome 🍃
 
@@ -7,7 +7,7 @@ This calculator App was a cool project to practice my `CSS` and `Vanillas Javasc
 ## Links
 - My Linkedin [Linkedin](https://www.linkedin.com/in/mouhametndiaye/)
 - My email ahmetndiaye404@gmail.com
-- Live Project [Pomodoro App](https://mouhametnd-pomodoro.netlify.app/)
+- Live Project [Calculator App](https://mouhametnd-calculator.netlify.app/)
 - Challenged by [Frontend Mentor](https://www.frontendmentor.io/home)
 
 ## Challenge  
