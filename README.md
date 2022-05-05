@@ -1,4 +1,4 @@
-# Frontend Mentor: CalCulator App Challenge
+# Frontend Mentor: Calulator App Challenge
  
 ## Welcome 🍃
 
