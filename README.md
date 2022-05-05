@@ -8,7 +8,7 @@ This calculator App was a cool project to put into practice my `CSS` and `Vanill
 - My Linkedin [Linkedin](https://www.linkedin.com/in/mouhametndiaye/)
 - My email ahmetndiaye404@gmail.com
 - Live Project [Calculator App](https://mouhametnd-calculator.netlify.app/)
-- Challenged by [Frontend Mentor](https://www.frontendmentor.io/home)
+- Challenged by [Frontend Mentor](https://www.frontendmentor)
 
 ## Challenge  
 
