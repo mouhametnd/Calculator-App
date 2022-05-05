@@ -2,7 +2,7 @@
  
 ## Welcome 🍃
 
-This calculator App was a cool project to put into practice my `CSS` and `Vanillas Javascript` skills.
+This calculator App was a cool project to put into practice my `CSS` and `Vanilla Javascript` skills.
 
 ## Links
 - My Linkedin [Linkedin](https://www.linkedin.com/in/mouhametndiaye/)
